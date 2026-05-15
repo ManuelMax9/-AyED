@@ -1,6 +1,8 @@
 #AyED
 
-Manuel Max Jimenez K1041
+Nombre: Manuel
+Apellido: Max Jimenez
+Comisión: K1041
 
 g++.exe (x86_64-posix-seh-rev0, Built by MinGW-W64 project) 8.1.0
 Copyright (C) 2018 Free Software Foundation, Inc.
